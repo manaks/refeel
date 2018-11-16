@@ -1,0 +1,32 @@
+
+body{margin:0;}
+
+#첫째 {padding:20px; background-color: #000066;}
+#첫째 h1{margin:0; color: white;}
+#첫째 h3{margin:0; color: white;}
+#첫째 a{color:white; text-decoration: none;}
+
+#둘째 {margin:0; padding:20px}
+#둘째 ul{margin:0;}
+
+#셋째 {display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto;
+  background-color: lightgray;
+  border: 2px solid gray; border-bottom: 1px solid gray;}
+  .분류{background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid gray;
+    padding: 5px; padding-top: 10px; padding-bottom: 10px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;}
+
+#넷째 {display: grid;
+  grid-template-columns: auto auto;
+  background-color: lightgray;
+  border: 2px solid gray; border-top: 1px solid gray;}
+  .베스트{background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid gray;
+  padding: 5px; padding-top: 10px; padding-bottom: 10px;
+  font-size: 17px;
+  text-align: center;
+  text-decoration: none;}
