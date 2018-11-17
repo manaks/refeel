@@ -15,7 +15,6 @@ body{margin:0;}
   .분류{background-color: rgb(220, 230, 241);
     border: 1px solid gray;
     padding: 1px; padding-top: 10px; padding-bottom: 10px;
-    font-size: 15px;
     text-align: center;
     text-decoration: none; color: black;}
 
@@ -25,7 +24,6 @@ body{margin:0;}
   .베스트{background-color: rgb(238, 236, 225);
   border: 1px solid gray;
   padding: 5px; padding-top: 10px; padding-bottom: 10px;
-  font-size: 17px;
   text-align: center;
   text-decoration: none; color: black;}
 
