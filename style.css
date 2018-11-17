@@ -14,7 +14,7 @@ body{margin:0;}
   border: 2px solid gray; border-bottom: 1px solid gray;}
   .분류{background-color: rgb(220, 230, 241);
     border: 1px solid gray;
-    padding: 1px; padding-top: 10px; padding-bottom: 10px;
+    padding-top: 10px; padding-bottom: 10px;
     text-align: center;
     text-decoration: none; color: black;}
 
@@ -22,10 +22,10 @@ body{margin:0;}
   grid-template-columns: auto auto;
   border: 2px solid gray; border-top: 1px solid gray;}
   .베스트{background-color: rgb(238, 236, 225);
-  border: 1px solid gray;
-  padding: 5px; padding-top: 10px; padding-bottom: 10px;
-  text-align: center;
-  text-decoration: none; color: black;}
+    border: 1px solid gray;
+    padding-top: 10px; padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none; color: black;}
 
 #다섯째 {display: grid;
   grid-template-columns: auto auto;
